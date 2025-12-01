@@ -1,4 +1,6 @@
-# 社区宠物寄养服务平台数据库设计文档
+# 社区宠物寄养服务平台数据库设计文档(deprecated)
+
+See [feishu document](https://ai.feishu.cn/wiki/KKh3wawa2i7FdLkf0QDcE5B1nwg)
 
 ## 1.需求说明
 
